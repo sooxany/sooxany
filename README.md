@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm soojin Kim</h1>
-<h3 align="center">I am a positive developer who dreams of improving day by day</h3>
-<h3 align="center">나날이 발전하는 개발자 되기</h3>
 
-- 🔭 I’m currently working on [AdvMobLab_proj](https://github.com/sooxany/AdvMobLab_proj.git), [Algorithm_study](https://github.com/sooxany/Algorithm_study.git)
-
-- 🌱 I’m currently learning **Spring, Java, Python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **soojini0929@gmail.com, soojin0929@naver.com**
 
